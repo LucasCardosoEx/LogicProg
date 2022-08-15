@@ -1,2 +1,2 @@
 # LogicProg
-Olá Universo
+Projetos Individuais do Serratec
