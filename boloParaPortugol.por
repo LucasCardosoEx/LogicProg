@@ -38,10 +38,10 @@ programa
 				senao comprar()
 			pare
 			caso 'n':
-			continuar()
+				continuar()
 			pare
 			caso 'N':
-			continuar()
+				continuar()
 			pare
 			caso contrario :
 			escreva("Resposta inválida. Tente digitar s/S para sim, ou n/N para não.")
@@ -155,7 +155,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1099; 
+ * @POSICAO-CURSOR = 972; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
