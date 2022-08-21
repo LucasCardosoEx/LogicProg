@@ -4,11 +4,11 @@ programa
 	funcao inicio()
 	{
 	inteiro A = + 2 , R = 0
-	escreva("Sequencia em Progressão Aritimética, digite um numero\n")
+	escreva("Sequencia em Progressão Geométrica, digite um numero\n")
 	leia (A)
 		
 		para(R = 0 ; R < 10 ; R++)
-			 escreva (A = A + 2, "\n")
+			 escreva (A = A * 2, "\n")
 			 
 	}
 }
@@ -17,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 122; 
+ * @POSICAO-CURSOR = 187; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {A, 6, 9, 1}-{R, 6, 19, 1};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
