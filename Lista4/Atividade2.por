@@ -20,7 +20,7 @@ programa
 				menorAltu = pessoas[altu]
 			}
 		}
-			escreva("A maior altura é: ",maiorAltu,"\n A menor é, ",menorAltu,".")
+			escreva("A maior altura é: ",maiorAltu,"\nA menor0 é, ",menorAltu,".")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -28,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 503; 
+ * @POSICAO-CURSOR = 462; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {pessoas, 5, 6, 7}-{maiorAltu, 5, 19, 9}-{menorAltu, 5, 30, 9};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
